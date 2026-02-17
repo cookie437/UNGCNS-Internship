@@ -6,6 +6,7 @@ const navItems = [
   { name: "Home", href: "/" },
   { name: "Assignments", href: "/assignments" },
   { name: "Reflections", href: "/reflections" },
+  { name: "Video", href: "/video" },
   { name: "Conclusion", href: "/conclusion" },
 ];
 
@@ -35,7 +36,10 @@ export const Navbar = () => {
           href="/"
         >
           <span className="relative z-10 text-foreground">
-            <span className="text-glow text-primary"> FoodXervices </span>{" "}
+            <span className="text-glow text-primary">
+              {" "}
+              United Nations Global Compact{" "}
+            </span>{" "}
             Internship
           </span>
         </a>

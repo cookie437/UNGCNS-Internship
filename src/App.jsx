@@ -5,6 +5,7 @@ import { Reflections } from "./pages/Reflections";
 import { Conclusion } from "./pages/Conclusion";
 import { NotFound } from "./pages/NotFound";
 import { Toaster } from "@/components/ui/toaster";
+import Day from "./pages/DayInMyLifeVideo";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="assignments" element={<Assignments />} />
           <Route path="reflections" element={<Reflections />} />
           <Route path="conclusion" element={<Conclusion />} />
+          <Route path="video" element={<Day />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

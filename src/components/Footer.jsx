@@ -2,9 +2,9 @@ import { ArrowUp } from "lucide-react";
 
 const navItems = [
   { name: "Home", href: "/index" },
-  { name: "Events", href: "/events" },
   { name: "Assignments", href: "/assignments" },
   { name: "Reflections", href: "/reflections" },
+  { name: "Video", href: "/video" },
   { name: "Conclusion", href: "/conclusion" },
 ];
 

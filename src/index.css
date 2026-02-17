@@ -68,7 +68,7 @@
     --foreground: 222 47% 11%;
 
     --card: 0 0% 100%;
-    --primary: 90 70% 40%; /* green */
+    --primary: 207 48% 60%; /* blue colour */
     --primary-foreground: 210 40% 98%;
 
     --border: 214 32% 91%;
@@ -84,7 +84,9 @@
 
   body {
     @apply bg-background text-foreground transition-colors duration-300;
-    font-feature-settings: "rlig" 1, "calt" 1;
+    font-feature-settings:
+      "rlig" 1,
+      "calt" 1;
   }
 }
 
