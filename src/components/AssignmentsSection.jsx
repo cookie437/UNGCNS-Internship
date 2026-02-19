@@ -20,10 +20,11 @@ const assignments = [
       "I managed and optimised three organisational websites independently, self-learning WordPress, Elementor, and backend configurations to improve content management, user experience, and internal workflow efficiency.",
 
     images: [
-      "/assignments/a2/picture-1.jpg",
-      "/assignments/a2/picture-2.jpg",
-      "/assignments/a2/picture-3.jpg",
-      "/assignments/a2/picture-4.jpg",
+      "/assignments/a1/picture-1.png",
+      "/assignments/a1/picture-2.png",
+      "/assignments/a1/picture-3.png",
+      "/assignments/a1/picture-4.png",
+      "/assignments/a1/picture-5.png",
     ],
 
     details: {
@@ -57,10 +58,13 @@ const assignments = [
       "Managed United Nations Global Compact Singapore's LinkedIn page (11,000+ followers), Mailchimp email marketing (~8,000 recipients), YouTube channel (~200 subscribers), and supported Google Advertisements planning. Executed structured digital campaigns, and conducted Monthly Performance Audits.",
 
     images: [
-      "/assignments/a2/picture-1.jpg",
-      "/assignments/a2/picture-2.jpg",
-      "/assignments/a2/picture-3.jpg",
-      "/assignments/a2/picture-4.jpg",
+      "/assignments/a2/picture-1.png",
+      "/assignments/a2/picture-2.png",
+      "/assignments/a2/picture-3.png",
+      "/assignments/a2/picture-4.png",
+      "/assignments/a2/picture-5.png",
+      "/assignments/a2/picture-6.png",
+      "/assignments/a2/picture-7.png",
     ],
 
     details: {
@@ -88,10 +92,10 @@ const assignments = [
       "Designed over 30+ observance day visuals, major event creatives, and flagship web banners, ensuring SDG alignment, brand consistency, and cross-platform optimisation across LinkedIn, Mailchimp, and organisational websites.",
 
     images: [
-      "/assignments/a3/picture-1.jpg",
-      "/assignments/a3/picture-2.jpg",
-      "/assignments/a3/picture-3.jpg",
-      "/assignments/a3/picture-4.jpg",
+      "/assignments/a3/picture-1.png",
+      "/assignments/a3/picture-2.png",
+      "/assignments/a3/picture-3.png",
+      "/assignments/a3/picture-4.png",
     ],
 
     details: {
@@ -119,10 +123,10 @@ const assignments = [
       "Independently leveraged LinkedIn Sales Navigator and Prospeo to generate ~300 qualified B2B leads monthly, strengthening UNGCNS’ outreach pipeline and contributing to measurable network expansion.",
 
     images: [
-      "/assignments/a4/picture-1.jpg",
-      "/assignments/a4/picture-2.jpg",
-      "/assignments/a4/picture-3.jpg",
-      "/assignments/a4/picture-4.jpg",
+      "/assignments/a4/picture-1.png",
+      "/assignments/a4/picture-2.png",
+      "/assignments/a4/picture-3.png",
+      "/assignments/a4/picture-4.png",
     ],
 
     details: {
@@ -150,10 +154,9 @@ const assignments = [
       "Led strategic outreach and global engagement efforts for the Apex Awards, expanding international partner networks, driving registrations, and strengthening cross-border sustainability collaborations.",
 
     images: [
-      "/assignments/a5/picture-1.jpg",
-      "/assignments/a5/picture-2.jpg",
-      "/assignments/a5/picture-3.jpg",
-      "/assignments/a5/picture-4.jpg",
+      "/assignments/a5/picture-1.png",
+      "/assignments/a5/picture-2.png",
+      "/assignments/a5/picture-3.png",
     ],
 
     details: {
@@ -185,10 +188,10 @@ const assignments = [
       "Supported the pilot launch of UNGCNS’ first interactive Stickerbook learning initiative by scripting executive videos, managing production coordination, and shaping the communication tone for a sustainability-focused digital certification platform.",
 
     images: [
-      "/assignments/a6/picture-1.jpg",
-      "/assignments/a6/picture-2.jpg",
-      "/assignments/a6/picture-3.jpg",
-      "/assignments/a6/picture-4.jpg",
+      "/assignments/a6/picture-1.png",
+      "/assignments/a6/picture-2.png",
+      "/assignments/a6/picture-3.png",
+      "/assignments/a6/picture-4.png",
     ],
 
     details: {

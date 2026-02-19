@@ -16,7 +16,7 @@ export const UNGCNSSection = () => {
           <div className="gradient-border rounded-3xl p-1">
             <div className="rounded-3xl bg-card/70 backdrop-blur-sm border border-border p-8 flex flex-col items-center">
               <img
-                src="/UNGCNS.png"
+                src="/brands/UNGCNS-Full.png"
                 alt="UNGCNS Logo"
                 className="h-20 md:h-24 object-contain mb-4"
               />
@@ -122,32 +122,58 @@ export const UNGCNSSection = () => {
         </div>
 
         {/* Who We Work With */}
-        <div className="mt-20">
-          <h3 className="text-2xl font-semibold text-center mb-10">
+        <div className="mt-24">
+          <h3 className="text-2xl md:text-3xl font-semibold text-center mb-12">
             Key Organisations Working With{" "}
             <span className="text-primary">UNGCNS</span>
           </h3>
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 items-center text-center">
-            <div>
-              <FaBuilding className="mx-auto text-4xl text-primary mb-2" />
-              <p className="text-muted-foreground text-sm">
-                Singapore Business Federation (SBF)
+
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-8">
+            {/* SBF */}
+            <div className="bg-card/60 backdrop-blur-sm border border-border rounded-2xl p-6 flex flex-col items-center justify-center transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group">
+              <img
+                src="/brands/SBF.png"
+                alt="Singapore Business Federation"
+                className="h-14 object-contain transition duration-300"
+              />
+              <p className="mt-4 text-sm text-muted-foreground text-center">
+                Singapore Business Federation
               </p>
             </div>
-            <div>
-              <FaBuilding className="mx-auto text-4xl text-primary mb-2" />
-              <p className="text-muted-foreground text-sm">
-                City Developments Limited (CDL)
+
+            {/* CDL */}
+            <div className="bg-card/60 backdrop-blur-sm border border-border rounded-2xl p-6 flex flex-col items-center justify-center transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group">
+              <img
+                src="/brands/CDL.png"
+                alt="City Developments Limited"
+                className="h-14 object-contain transition duration-300"
+              />
+              <p className="mt-4 text-sm text-muted-foreground text-center">
+                City Developments Limited
               </p>
             </div>
-            <div>
-              <FaBuilding className="mx-auto text-4xl text-primary mb-2" />
-              <p className="text-muted-foreground text-sm">NTUC</p>
+
+            {/* NTUC */}
+            <div className="bg-card/60 backdrop-blur-sm border border-border rounded-2xl p-6 flex flex-col items-center justify-center transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group">
+              <img
+                src="/brands/NTUC.png"
+                alt="NTUC"
+                className="h-14 object-contain transition duration-300"
+              />
+              <p className="mt-4 text-sm text-muted-foreground text-center">
+                NTUC
+              </p>
             </div>
-            <div>
-              <FaBuilding className="mx-auto text-4xl text-primary mb-2" />
-              <p className="text-muted-foreground text-sm">
-                Singapore National Employers Federation (SNEF)
+
+            {/* SNEF */}
+            <div className="bg-card/60 backdrop-blur-sm border border-border rounded-2xl p-6 flex flex-col items-center justify-center transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group">
+              <img
+                src="/brands/SNEF.png"
+                alt="Singapore National Employers Federation"
+                className="h-14 object-contain transition duration-300"
+              />
+              <p className="mt-4 text-sm text-muted-foreground text-center">
+                Singapore National Employers Federation
               </p>
             </div>
           </div>

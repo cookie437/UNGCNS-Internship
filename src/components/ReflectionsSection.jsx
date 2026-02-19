@@ -12,7 +12,7 @@ export const ReflectionsSection = () => {
             <strong>United Nations Global Compact Singapore </strong>
             was a defining growth experience for me. I entered focused on
             executing tasks correctly, but over time, I shifted towards thinking
-            strategically — asking how communication could drive{" "}
+            strategically, asking how communication could drive{" "}
             <strong>measurable engagement</strong>, strengthen{" "}
             <strong>global partnerships</strong>, and improve
             <strong> organisational systems</strong>.

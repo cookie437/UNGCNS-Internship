@@ -54,8 +54,8 @@ export const ConclusionSection = () => {
                 level of global exposure and cross‑cultural collaboration
               </strong>{" "}
               I experienced. At UNGCNS, I worked closely with colleagues and
-              stakeholders from <strong>highly diverse backgrounds</strong>
-              —including team members and partners from Myanmar, India,
+              stakeholders from <strong>highly diverse backgrounds</strong>,
+              including team members and partners from Myanmar, India,
               Australia, the UK, Indonesia, and more. <br></br>I also had the
               opportunity to communicate with{" "}
               <strong>international stakeholders</strong> such as
@@ -92,7 +92,7 @@ export const ConclusionSection = () => {
           </div>
           <div>
             <img
-              src="/conclusion/picture-3.jpg"
+              src="/conclusion/picture-3.png"
               alt="Digital Strategy Work"
               className="rounded-xl shadow-md w-full h-72 object-cover"
             />
@@ -103,7 +103,7 @@ export const ConclusionSection = () => {
         <div className="text-start grid md:grid-cols-3 gap-10 items-center">
           <div className="order-2 md:order-1">
             <img
-              src="/conclusion/picture-4.jpg"
+              src="/conclusion/picture-4.png"
               alt="Key Achievements"
               className="rounded-xl shadow-md w-full h-72 object-cover"
             />
@@ -170,7 +170,7 @@ export const ConclusionSection = () => {
           </div>
           <div>
             <img
-              src="/conclusion/picture-5.jpg"
+              src="/conclusion/picture-5.png"
               alt="Future Direction"
               className="rounded-xl shadow-md w-full h-72 object-cover"
             />

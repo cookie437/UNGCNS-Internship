@@ -36,11 +36,7 @@ export const Navbar = () => {
           href="/"
         >
           <span className="relative z-10 text-foreground">
-            <span className="text-glow text-primary">
-              {" "}
-              United Nations Global Compact{" "}
-            </span>{" "}
-            Internship
+            <span className="text-glow text-primary"> UNGCNS </span> Internship
           </span>
         </a>
 

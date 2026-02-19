@@ -234,7 +234,7 @@ export const ValueSection = () => {
                 </strong>
                 , learn from diverse leadership approaches, and articulate
                 sustainability insights that resonate across cultural and
-                organizational contexts—positioning myself as an emerging{" "}
+                organizational contexts, positioning myself as an emerging{" "}
                 <strong>leader in the global sustainability movement</strong>.
               </p>
             </div>
