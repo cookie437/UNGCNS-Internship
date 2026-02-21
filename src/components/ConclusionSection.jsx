@@ -21,11 +21,12 @@ export const ConclusionSection = () => {
               months, I moved beyond executing marketing tasks to thinking
               strategically about how communication can drive
               <strong> measurable engagement</strong> and
-              <strong> organisational growth</strong>. <br></br>From managing
-              LinkedIn and Mailchimp campaigns to expanding international
-              outreach for the <strong>Apex Awards</strong>, I experienced
-              firsthand how digital platforms can amplify sustainability
-              advocacy on a regional and global scale.
+              <strong> organisational growth</strong>. <br></br>
+              <br></br>From managing LinkedIn and Mailchimp campaigns to
+              expanding international outreach for the{" "}
+              <strong>Apex Awards</strong>, I experienced firsthand how digital
+              platforms can amplify sustainability advocacy on a regional and
+              global scale.
             </p>
           </div>
           <div>
@@ -56,8 +57,8 @@ export const ConclusionSection = () => {
               I experienced. At UNGCNS, I worked closely with colleagues and
               stakeholders from <strong>highly diverse backgrounds</strong>,
               including team members and partners from Myanmar, India,
-              Australia, the UK, Indonesia, and more. <br></br>I also had the
-              opportunity to communicate with{" "}
+              Australia, the UK, Indonesia, and more. <br></br>
+              <br></br>I also had the opportunity to communicate with{" "}
               <strong>international stakeholders</strong> such as
               <strong> UNDP</strong>, strengthening my ability to adapt to
               diverse communication styles and expectations. I learnt to be more
@@ -84,10 +85,19 @@ export const ConclusionSection = () => {
               improvements such as
               <strong> WP Mail SMTP automation</strong> enhanced internal
               coordination and reduced manual inefficiencies across departments.
-              More importantly, I shifted from simply completing tasks to asking
-              strategic questions: How can engagement be optimised? How can
-              systems be made more efficient? That mindset shift marked my
-              biggest professional growth.
+              <br></br>
+              <br></br>I was also able to apply concepts from my
+              <strong>
+                {" "}
+                Digital Transformation and Marketing Strategy (DTMS)
+              </strong>{" "}
+              module, particularly in understanding multi-channel integration,
+              audience segmentation, and using digital tools strategically to
+              support organisational objectives. Most importantly, I shifted
+              from simply completing tasks to asking strategic questions: How
+              can engagement be optimised? How can systems be made more
+              efficient? That mindset shift marked my biggest{" "}
+              <strong>professional growth</strong>.
             </p>
           </div>
           <div>
@@ -143,15 +153,26 @@ export const ConclusionSection = () => {
         <div className="text-start md:text-end grid md:grid-cols-3 gap-10 items-center">
           <div className="md:col-span-2">
             <p className="text-muted-foreground leading-relaxed text-sm md:text-base">
-              Beyond technical execution, this internship strengthened my
-              <strong> emotional resilience</strong> and
-              <strong> people-management maturity</strong>. Working under high
-              expectations and tight timelines taught me how to prioritise
-              effectively, manage upwards, and communicate progress proactively.
-              I learnt that professional growth is not just about capability, it
-              is about <strong> composure under pressure</strong>,
-              <strong> clarity in communication</strong>, and
-              <strong> adaptability in fast-paced environments</strong>.
+              Beyond technical execution, this internship strengthened my{" "}
+              <strong>emotional resilience</strong> and{" "}
+              <strong>people-management maturity</strong>. Working under{" "}
+              <strong>high expectations</strong> and{" "}
+              <strong>tight timelines</strong> taught me how to{" "}
+              <strong>prioritise</strong> effectively, manage upwards, and{" "}
+              <strong>communicate progress proactively</strong>. I learnt that
+              professional growth also comprises of{" "}
+              <strong>composure under pressure</strong>,{" "}
+              <strong>clear communication</strong>, and{" "}
+              <strong>adaptability in fast-paced environments</strong>.<br></br>
+              <br></br>
+              This experience also allowed me to apply concepts from my{" "}
+              <strong>Change Management and Persuasion (CMP)</strong> module. In
+              a dynamic work environment where priorities and timelines
+              frequently shifts, I had to manage change through being{" "}
+              <strong>flexible</strong>, anticipate{" "}
+              <strong>stakeholders’ concerns</strong>, and{" "}
+              <strong>communicate updates clearly</strong> to maintain
+              alignment.
             </p>
             <p className="mt-6">
               Overall, this internship solidified my interest in the
@@ -164,8 +185,8 @@ export const ConclusionSection = () => {
               importantly, it <strong>reshaped my mindset</strong>, from
               completing tasks to building systems, from supporting campaigns to
               strengthening ecosystems. I leave this internship more confident,
-              globally aware, and equipped to contribute meaningfully in future
-              roles.
+              globally aware, and equipped to{" "}
+              <strong>contribute meaningfully in future roles</strong>.
             </p>
           </div>
           <div>
